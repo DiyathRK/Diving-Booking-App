@@ -1,4 +1,4 @@
-# 🌊 DiveHub - Scuba Diving Booking Platform
+# 🌊 DiveGo - Scuba Diving Booking Platform
 
 DiveHub is an all-in-one scuba diving booking platform designed to connect diving enthusiasts with dive centers worldwide. Users can discover dive centers via an interactive map, book real-time slots, compare packages, and manage their diving experiences all in one place.
 
