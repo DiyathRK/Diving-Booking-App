@@ -90,8 +90,7 @@ What sets DiveHub apart:
 ## 🛠️ Implementation Stack
 
 ### Frontend
-- React Native / Flutter (Mobile)
-- ReactJS / Next.js (Web)
+- Flutter (Mobile)
 
 ### Backend
 - Node.js with Express.js
